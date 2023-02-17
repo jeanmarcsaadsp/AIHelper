@@ -1,0 +1,6 @@
+output/
+build/
+dist/
+aihelper.egg-info/
+
+.env

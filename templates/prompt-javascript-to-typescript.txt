@@ -1,0 +1,7 @@
+{# templates/prompt.txt #}
+
+Re-write the following {{language}} code as a typescript code, using best practices:
+
+'''{{language}}
+{{code_raw}}
+'''

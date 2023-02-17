@@ -1,0 +1,7 @@
+{# templates/prompt.txt #}
+
+Generate {{test_framework}} tests for all methods defined in the following {{language}} class code, as a single test file, using best coding practices:
+
+'''{{language}}
+{{code_raw}}
+'''
